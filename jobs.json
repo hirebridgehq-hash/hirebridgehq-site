@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Software Engineer",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "summary": "Work on backend and frontend systems to deliver reliable hiring platform features."
+  },
+  {
+    "id": "2",
+    "title": "Marketing Specialist",
+    "location": "Remote",
+    "type": "Contract",
+    "summary": "Drive growth through content, campaigns, and partnerships."
+  },
+  {
+    "id": "3",
+    "title": "HR Coordinator",
+    "location": "Austin, TX",
+    "type": "Part-time",
+    "summary": "Support candidate onboarding and client coordination."
+  }
+]
